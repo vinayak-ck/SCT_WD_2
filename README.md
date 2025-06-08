@@ -4,6 +4,8 @@ A fully functional and interactive **Calculator Web Application** built using HT
 
 ---
 
+## 📌 Task 03 - Calculator Web Application
+
 ## 🔧 Features
 
 - ✅ **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, Division
