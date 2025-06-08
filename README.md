@@ -1,10 +1,10 @@
+## 📌 Task 02 - Calculator Web Application
+
 # 🧮 Calculator Web Application
 
 A fully functional and interactive **Calculator Web Application** built using HTML, CSS, and JavaScript. This project is designed to demonstrate DOM manipulation, event handling, arithmetic parsing, and keyboard input support in a clean and user-friendly interface.
 
 ---
-
-## 📌 Task 03 - Calculator Web Application
 
 ## 🔧 Features
 
